@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.codefever.be.ico",
     "slug": "code-fever",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 1344,
     "timeDay": 1659,
     "timeWeek": 1344,
@@ -24,9 +24,9 @@
     "url": "https://www.ftrprf.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.ftrprf.be.ico",
     "slug": "ftrprf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 2250,
     "timeMonth": 2250,
     "timeYear": 2250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-20": 0
+    }
   },
   {
     "name": "CodeCosmos",
