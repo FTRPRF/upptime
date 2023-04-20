@@ -24,19 +24,19 @@
     "url": "https://www.ftrprf.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.ftrprf.be.ico",
     "slug": "ftrprf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2250,
-    "timeDay": 2144,
-    "timeWeek": 2250,
-    "timeMonth": 2250,
-    "timeYear": 2250,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 3121,
+    "timeDay": 5682,
+    "timeWeek": 3121,
+    "timeMonth": 3121,
+    "timeYear": 3121,
     "dailyMinutesDown": {
-      "2023-04-20": 0
+      "2023-04-20": 9
     }
   },
   {
