@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.codefever.be.ico",
     "slug": "code-fever",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 1344,
-    "timeDay": 1659,
-    "timeWeek": 1344,
-    "timeMonth": 1344,
-    "timeYear": 1344,
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1333,
+    "timeDay": 1234,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2023-04-17": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 3121,
-    "timeDay": 5682,
-    "timeWeek": 3121,
-    "timeMonth": 3121,
-    "timeYear": 3121,
+    "time": 3087,
+    "timeDay": 6020,
+    "timeWeek": 3087,
+    "timeMonth": 3087,
+    "timeYear": 3087,
     "dailyMinutesDown": {
       "2023-04-20": 9
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 510,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 419,
+    "timeDay": 470,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 942,
-    "timeDay": 1075,
-    "timeWeek": 942,
-    "timeMonth": 942,
-    "timeYear": 942,
+    "time": 913,
+    "timeDay": 710,
+    "timeWeek": 913,
+    "timeMonth": 913,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   }
 ]
