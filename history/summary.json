@@ -4,9 +4,9 @@
     "url": "https://www.codefever.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.codefever.be.ico",
     "slug": "code-fever",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 1361,
     "timeYear": 1361,
     "dailyMinutesDown": {
+      "2023-05-10": 0,
       "2023-04-17": 22
     }
   },
