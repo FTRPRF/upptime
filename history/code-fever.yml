@@ -1,7 +1,7 @@
 url: https://www.codefever.be
-status: up
-code: 200
-responseTime: 1229
-lastUpdated: 2023-05-26T23:03:28.144Z
+status: down
+code: 503
+responseTime: 5655
+lastUpdated: 2023-05-27T03:00:19.902Z
 startTime: Fri Apr 14 2023 07:53:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
